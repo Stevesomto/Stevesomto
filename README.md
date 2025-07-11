@@ -1,4 +1,4 @@
-<h2> Hi there 👋, I'm  <b> Stephen Somtochukwu </b> </h2>
+<h1> Hi there 👋, I'm  <b> Stephen Somtochukwu </b> </h1>
 I'm a passionate fullstack developer
 
 - 🔭 I’m currently working on an AI Web App using Python (Django)
@@ -15,4 +15,4 @@ I'm a passionate fullstack developer
 <h2> 📈 GitHub Stats </h2>
 
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stevesomto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stevesomto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
