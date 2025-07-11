@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm  <b> Stephen Somtochukwu </b> </h1>
+<h1> Hi 👋, I'm  <b> Stephen Somtochukwu </b> </h1>
 I'm a passionate fullstack developer
 
 - 🔭 I’m currently working on an AI Web App using Python (Django)
