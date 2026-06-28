@@ -117,7 +117,7 @@ Building with code, driven by curiosity. I create digital solutions, explore eme
 </p>
 
 <p align="center">
-<a href="[https://yourwebsite.com](https://stephen-somtochukwu.vercel.app/)">
+<a href="https://stephen-somtochukwu.vercel.app/">
 </a>
 </p>
 
