@@ -51,11 +51,11 @@ Backend Systems    → APIs, databases, authentication
 
 ## Currently Building
 
-- 🚀 **[ThinkHub](https://github.com/Stevesomto/thinkhub)** — AI learning assistant for students. Built with Django, AI APIs, and modern web technologies.
+- 🚀 **[Music ComposerWebsite](https://github.com/Stevesomto/music-composer-website)** — A Music Composer website for uploading and downloading of music audios and PDFs.
 
-- 🗳️ **[Online Voting System](https://github.com/Stevesomto/voting-system)** — Secure election platform with authentication and anti-fraud features.
+- 🗳️ **[Online Voting System](https://github.com/Stevesomto/VESA-ONLINE-VOTING-WEBSITE)** — Secure election platform with authentication and anti-fraud features. Done with coding,testing and deployment. Check it on https://vesavote.com.ng/
 
-- 🤖 **[AI Document Summarizer](https://github.com/Stevesomto/document-ai)** — Summarizes large documents into concise notes using AI.
+- 🤖 **[Paint Company Website](https://github.com/Stevesomto/GRAVITEX-PAINT)** — A website for a painting industry.
 
 ---
 
