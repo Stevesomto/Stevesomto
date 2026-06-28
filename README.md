@@ -1,11 +1,47 @@
 <h1> Hi 👋, I'm  <b> Stephen Somtochukwu </b> </h1>
-Full-stack Developer
+ 
+<h3 align="center">
+Full-Stack Developer · Python Developer · AI Builder
+</h3>
 
-- 🔭 I’m currently working on an AI Web App using Python (Django)
-- 👯 I’m looking to collaborate on with like minds
-- 📫 How to reach me: anyanwustevo18@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Coding
+
+<p align="center">
+I build production systems — from Django applications to AI-powered platforms.
+</p>
+
+
+<p align="center">
+
+<a href="https://stephen-somtochukwu.vercel.app/">
+<img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome">
+</a>
+
+<a href="https://www.linkedin.com/in/dev-stephen/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://x.com/Stephen4tech">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x">
+</a>
+
+<a href="mailto:anyanwustevo18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Stevesomto&label=PROFILE%20VIEWS">
+</p>
+
+## What I Ship
+
+```text
+Web Applications   → Django, Flask, Frontend (HTML, CSS, JAVASCRIPT)
+AI Applications    → Document AI, automation tools
+Backend Systems    → APIs, databases, authentication
+```
 
 <h2> SKILLS/TECH STACK 🚀</h2>  
 
