@@ -51,7 +51,7 @@ Backend Systems    → APIs, databases, authentication
 
 ## Currently Building
 
-- 🚀 **[Music ComposerWebsite](https://github.com/Stevesomto/music-composer-website)** — A Music Composer website for uploading and downloading of music audios and PDFs.
+- 🚀 **[Music Composer Website](https://github.com/Stevesomto/music-composer-website)** — A Music Composer website for uploading and downloading of music audios and PDFs.
 
 - 🗳️ **[Online Voting System](https://github.com/Stevesomto/VESA-ONLINE-VOTING-WEBSITE)** — Secure election platform with authentication and anti-fraud features. Done with coding,testing and deployment. Check it on https://vesavote.com.ng/
 
@@ -63,3 +63,62 @@ Backend Systems    → APIs, databases, authentication
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stevesomto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<th>Institution</th>
+<th>Programme</th>
+<th>Year</th>
+</tr>
+
+<tr>
+<td>University of Nigeria, Nsukka</td>
+<td>B.Sc. Computer & Robotics Education</td>
+<td>2023 – 2027</td>
+</tr>
+
+<tr>
+<td>Nanocode-Techverve Programming Hub</td>
+<td>Python - Django</td>
+<td>2026</td>
+</tr>
+
+<tr>
+<td>Heroic ICT Academy</td>
+<td>Full-Stack Web Development</td>
+<td>Jan – June 2025</td>
+</tr>
+
+<tr>
+<td>VSL ICT Concepts</td>
+<td>Web Design</td>
+<td>June 2021 – Dec 2021</td>
+</tr>
+
+<tr>
+<td>Bolooma Computer Institute</td>
+<td>Graphics Design - Desktop Publishing</td>
+<td>Sept 2017 – Mar 2018</td>
+</tr>
+
+</table>
+
+---
+
+<p align="center">
+<i>
+Building with code, driven by curiosity. I create digital solutions, explore emerging technologies, and turn concepts into impactful products.
+</i>
+</p>
+
+<p align="center">
+<a href="[https://yourwebsite.com](https://stephen-somtochukwu.vercel.app/)">
+</a>
+</p>
+
+---
