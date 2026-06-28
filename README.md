@@ -1,8 +1,7 @@
 <h1> Hi 👋, I'm  <b> Stephen Somtochukwu </b> </h1>
-I'm a passionate fullstack developer
+Full-stack Developer
 
 - 🔭 I’m currently working on an AI Web App using Python (Django)
-- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on with like minds
 - 📫 How to reach me: anyanwustevo18@gmail.com
 - 😄 Pronouns: He/Him
